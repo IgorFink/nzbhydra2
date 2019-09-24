@@ -70,7 +70,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/theotherp/nzbhydra2.git"
+    "url": "git+https://github.com/igorfink/nzbhydra2.git"
   },
   "keywords": [
     "usenet",
@@ -81,7 +81,7 @@
   "author": "TheOtherP",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/theotherp/nzbhydra2/issues"
+    "url": "https://github.com/igorfink/nzbhydra2/issues"
   },
-  "homepage": "https://github.com/theotherp/nzbhydra2#readme"
+  "homepage": "https://github.com/igorfink/nzbhydra2#readme"
 }
